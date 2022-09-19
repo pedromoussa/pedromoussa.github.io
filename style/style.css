@@ -1,0 +1,28 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+h1 {
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    font-size: 3rem;
+}
+
+img {
+    width: 400px;
+}
+
+.definition, .about {
+    width: 400px;
+    text-align: justify;
+}
+
+.about {
+
+}
+
+.top-facts {
+
+}
