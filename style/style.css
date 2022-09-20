@@ -1,11 +1,4 @@
-/* * {
-    margin: 0;
-    padding: 0;
-} */
-
 h1 {
-    /* display: flex;
-    justify-content: center; */
     text-align: center;
     font-size: 3rem;
 }
@@ -17,4 +10,12 @@ img {
 .definition {
     width: 400px;
     text-align: justify;
+}
+
+.media {
+    float: right;
+}
+
+tr {
+    text-align: center;
 }
